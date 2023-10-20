@@ -21,5 +21,6 @@ SUGGESTIONS and OBSERVATIONS
 many of the controls lack IDs and proper CSS selectors
 
 some controls like submit buttons are inputs rather than buttons which seems odd
+
 date formats could be more forgiving when using freehand entry of data
 
