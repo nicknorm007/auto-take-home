@@ -1,4 +1,4 @@
-# auto-take-home
+# playwright tests to test a train website
 
 1. Clone repo
 2. npm install
